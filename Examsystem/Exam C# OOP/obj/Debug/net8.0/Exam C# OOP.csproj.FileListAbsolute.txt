@@ -1,0 +1,28 @@
+C:\Users\Qaiaty Store\Desktop\Exam C# OOP\Exam C# OOP.Solution\Exam C# OOP\bin\Debug\net8.0\Exam C# OOP.exe
+C:\Users\Qaiaty Store\Desktop\Exam C# OOP\Exam C# OOP.Solution\Exam C# OOP\bin\Debug\net8.0\Exam C# OOP.deps.json
+C:\Users\Qaiaty Store\Desktop\Exam C# OOP\Exam C# OOP.Solution\Exam C# OOP\bin\Debug\net8.0\Exam C# OOP.runtimeconfig.json
+C:\Users\Qaiaty Store\Desktop\Exam C# OOP\Exam C# OOP.Solution\Exam C# OOP\bin\Debug\net8.0\Exam C# OOP.dll
+C:\Users\Qaiaty Store\Desktop\Exam C# OOP\Exam C# OOP.Solution\Exam C# OOP\bin\Debug\net8.0\Exam C# OOP.pdb
+C:\Users\Qaiaty Store\Desktop\Exam C# OOP\Exam C# OOP.Solution\Exam C# OOP\obj\Debug\net8.0\Exam C# OOP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Qaiaty Store\Desktop\Exam C# OOP\Exam C# OOP.Solution\Exam C# OOP\obj\Debug\net8.0\Exam C# OOP.AssemblyInfoInputs.cache
+C:\Users\Qaiaty Store\Desktop\Exam C# OOP\Exam C# OOP.Solution\Exam C# OOP\obj\Debug\net8.0\Exam C# OOP.AssemblyInfo.cs
+C:\Users\Qaiaty Store\Desktop\Exam C# OOP\Exam C# OOP.Solution\Exam C# OOP\obj\Debug\net8.0\Exam C# OOP.csproj.CoreCompileInputs.cache
+C:\Users\Qaiaty Store\Desktop\Exam C# OOP\Exam C# OOP.Solution\Exam C# OOP\obj\Debug\net8.0\Exam C# OOP.dll
+C:\Users\Qaiaty Store\Desktop\Exam C# OOP\Exam C# OOP.Solution\Exam C# OOP\obj\Debug\net8.0\refint\Exam C# OOP.dll
+C:\Users\Qaiaty Store\Desktop\Exam C# OOP\Exam C# OOP.Solution\Exam C# OOP\obj\Debug\net8.0\Exam C# OOP.pdb
+C:\Users\Qaiaty Store\Desktop\Exam C# OOP\Exam C# OOP.Solution\Exam C# OOP\obj\Debug\net8.0\Exam C# OOP.genruntimeconfig.cache
+C:\Users\Qaiaty Store\Desktop\Exam C# OOP\Exam C# OOP.Solution\Exam C# OOP\obj\Debug\net8.0\ref\Exam C# OOP.dll
+F:\.net\Exam C# OOP##\Exam C# OOP.Solution\Exam C# OOP\obj\Debug\net8.0\Exam C# OOP.dll
+F:\.net\Exam C# OOP##\Exam C# OOP.Solution\Exam C# OOP\obj\Debug\net8.0\refint\Exam C# OOP.dll
+F:\.net\Exam C# OOP##\Exam C# OOP.Solution\Exam C# OOP\obj\Debug\net8.0\Exam C# OOP.pdb
+F:\.net\Exam C# OOP##\Exam C# OOP.Solution\Exam C# OOP\bin\Debug\net8.0\Exam C# OOP.exe
+F:\.net\Exam C# OOP##\Exam C# OOP.Solution\Exam C# OOP\bin\Debug\net8.0\Exam C# OOP.deps.json
+F:\.net\Exam C# OOP##\Exam C# OOP.Solution\Exam C# OOP\bin\Debug\net8.0\Exam C# OOP.runtimeconfig.json
+F:\.net\Exam C# OOP##\Exam C# OOP.Solution\Exam C# OOP\bin\Debug\net8.0\Exam C# OOP.dll
+F:\.net\Exam C# OOP##\Exam C# OOP.Solution\Exam C# OOP\bin\Debug\net8.0\Exam C# OOP.pdb
+F:\.net\Exam C# OOP##\Exam C# OOP.Solution\Exam C# OOP\obj\Debug\net8.0\Exam C# OOP.GeneratedMSBuildEditorConfig.editorconfig
+F:\.net\Exam C# OOP##\Exam C# OOP.Solution\Exam C# OOP\obj\Debug\net8.0\Exam C# OOP.AssemblyInfoInputs.cache
+F:\.net\Exam C# OOP##\Exam C# OOP.Solution\Exam C# OOP\obj\Debug\net8.0\Exam C# OOP.AssemblyInfo.cs
+F:\.net\Exam C# OOP##\Exam C# OOP.Solution\Exam C# OOP\obj\Debug\net8.0\Exam C# OOP.csproj.CoreCompileInputs.cache
+F:\.net\Exam C# OOP##\Exam C# OOP.Solution\Exam C# OOP\obj\Debug\net8.0\Exam C# OOP.genruntimeconfig.cache
+F:\.net\Exam C# OOP##\Exam C# OOP.Solution\Exam C# OOP\obj\Debug\net8.0\ref\Exam C# OOP.dll
